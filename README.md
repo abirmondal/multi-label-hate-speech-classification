@@ -45,7 +45,7 @@ Metrics for different transformer models for the Merged Dataset (Hindi + Bengali
 
 We have achieved almost the best accuracy using the **twhin-bert-base** model. Our dataset is multi-labelled, so we focused mainly on *f1-score* to find the best model.
 
-> Language-specific results will be available in our report, which will be available very soon.
+Language-specific results are available in our [project report](/Project_Report.pdf).
 
 ## Testing
 The transformer testing code is available in the file [Testing Transformer Models.ipynb](/testing-codes/Testing%20Transformer%20Models.ipynb)
